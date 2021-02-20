@@ -17,7 +17,7 @@ else:
 
 setup(
     name='yy-scikit-multilearn',
-    version='0.2.1',
+    version='0.2.2',
     packages=find_packages(exclude=['docs', 'tests', '*.tests']),
     author=u'Yuan Yuan',
     author_email=u'yuan76@live.com',
