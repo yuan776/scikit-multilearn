@@ -11,41 +11,41 @@ Classifiers and tools
 Algorithm Adaptation approaches
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.adapt
+.. automodule:: yyskmultilearn.adapt
 
 
 Problem Transformation approaches
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.problem_transform
+.. automodule:: yyskmultilearn.problem_transform
 
 
 Multi-label embeddings
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.embedding
+.. automodule:: yyskmultilearn.embedding
 
 
 Ensembles of classifiers
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.ensemble
+.. automodule:: yyskmultilearn.ensemble
 
 
 Label Space Clusterers
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.cluster
+.. automodule:: yyskmultilearn.cluster
 
 External classifiers
 ^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.ext
+.. automodule:: yyskmultilearn.ext
 
 
 Model selection and data manipulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: skmultilearn.model_selection
+.. automodule:: yyskmultilearn.model_selection
 
-.. automodule:: skmultilearn.dataset
+.. automodule:: yyskmultilearn.dataset

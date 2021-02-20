@@ -1,6 +1,6 @@
-skmultilearn\.ext\.keras module
+yyskmultilearn\.ext\.keras module
 ===============================
 
-.. autoclass:: skmultilearn.ext.Keras
+.. autoclass:: yyskmultilearn.ext.Keras
     :members:
     :show-inheritance:

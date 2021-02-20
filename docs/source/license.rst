@@ -16,11 +16,11 @@ GPL library dependency
 
 Some of the sub-functionalities of the library uses and depends on GPL-licensed libraries:
 
-- :mod:`skmultilearn.cluster.graphtool` depends on GPL licensed python-graphtool_ module for Stochastic Blockmodel functionality
-- :mod:`skmultilearn.cluster.igraph` depends on GPL licensed python-igraph_ module for community detection methods
+- :mod:`yyskmultilearn.cluster.graphtool` depends on GPL licensed python-graphtool_ module for Stochastic Blockmodel functionality
+- :mod:`yyskmultilearn.cluster.igraph` depends on GPL licensed python-igraph_ module for community detection methods
 
 Using any of these modules incurs GPL on your codebase, thus for commercial purposes for network-based label space division
-you should be using the :mod:`skmultilearn.cluster.networkx` module which is depends on the well known BSD-licensed liibrary NetworkX_.
+you should be using the :mod:`yyskmultilearn.cluster.networkx` module which is depends on the well known BSD-licensed liibrary NetworkX_.
 
 Note that none of these libraries are installed by default.
 

@@ -1,6 +1,6 @@
 Cost-Sensitive Label Embedding with Multidimensional Scaling
 ============================================================
 
-.. autoclass:: skmultilearn.embedding.CLEMS
+.. autoclass:: yyskmultilearn.embedding.CLEMS
     :members:
     :show-inheritance:

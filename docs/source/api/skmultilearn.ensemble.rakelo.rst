@@ -1,6 +1,6 @@
 RAkELo: random overlapping label space division with Label Powerset
 ===================================================================
 
-.. autoclass:: skmultilearn.ensemble.RakelO
+.. autoclass:: yyskmultilearn.ensemble.RakelO
     :members:
     :show-inheritance:

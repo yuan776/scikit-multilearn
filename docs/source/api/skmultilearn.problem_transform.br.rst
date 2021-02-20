@@ -1,6 +1,6 @@
 Binary Relevance
 ================
 
-.. autoclass:: skmultilearn.problem_transform.BinaryRelevance
+.. autoclass:: yyskmultilearn.problem_transform.BinaryRelevance
     :members:
     :show-inheritance:

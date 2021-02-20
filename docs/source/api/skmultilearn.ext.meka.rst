@@ -1,8 +1,8 @@
-skmultilearn\.ext\.meka module
+yyskmultilearn\.ext\.meka module
 ==============================
 
-.. autoclass:: skmultilearn.ext.Meka
+.. autoclass:: yyskmultilearn.ext.Meka
     :members:
     :show-inheritance:
 
-.. autofunction:: skmultilearn.ext.download_meka
+.. autofunction:: yyskmultilearn.ext.download_meka

@@ -1,6 +1,6 @@
-skmultilearn\.cluster\.networkx module
+yyskmultilearn\.cluster\.networkx module
 ======================================
 
-.. autoclass:: skmultilearn.cluster.NetworkXLabelGraphClusterer
+.. autoclass:: yyskmultilearn.cluster.NetworkXLabelGraphClusterer
     :members:
     :show-inheritance:

@@ -1,5 +1,10 @@
-scikit-multilearn Changelog
+yy-scikit-multilearn Changelog
 ===========================
+0.2.2 (released 2020-02-19)
+---------------------------
+A new feature release:
+- fix a bug in prediciton of MLKNN
+- update the name: adding prefix yy-
 
 0.2.0 (released 2018-12-10)
 ---------------------------

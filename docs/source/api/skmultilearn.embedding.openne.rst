@@ -1,6 +1,6 @@
 Label Network Embeddings for Multi-label Classification (LNEMLC)
 ================================================================
 
-.. autoclass:: skmultilearn.embedding.OpenNetworkEmbedder
+.. autoclass:: yyskmultilearn.embedding.OpenNetworkEmbedder
     :members:
     :show-inheritance:

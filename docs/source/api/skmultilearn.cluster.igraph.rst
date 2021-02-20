@@ -1,6 +1,6 @@
-skmultilearn\.cluster\.igraph module
+yyskmultilearn\.cluster\.igraph module
 ====================================
 
-.. autoclass:: skmultilearn.cluster.IGraphLabelGraphClusterer
+.. autoclass:: yyskmultilearn.cluster.IGraphLabelGraphClusterer
     :members:
     :show-inheritance:

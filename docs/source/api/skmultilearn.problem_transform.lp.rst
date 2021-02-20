@@ -1,6 +1,6 @@
 Label Powerset
 ==============
 
-.. autoclass:: skmultilearn.problem_transform.LabelPowerset
+.. autoclass:: yyskmultilearn.problem_transform.LabelPowerset
     :members:
     :show-inheritance:

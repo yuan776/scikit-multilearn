@@ -1,6 +1,6 @@
-skmultilearn\.utils module
+yyskmultilearn\.utils module
 ==========================
 
-.. automodule:: skmultilearn.utils
+.. automodule:: yyskmultilearn.utils
     :members:
     :show-inheritance:

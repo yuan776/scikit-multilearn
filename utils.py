@@ -8,7 +8,7 @@ from utils.files import files
 class Config:
     root = '.'
     meka = 'meka'
-    skmultilearn = 'skmultilearn'
+    yyskmultilearn = 'yyskmultilearn'
     tests = 'tests'
     utils = 'utils'
 
@@ -19,12 +19,12 @@ def test():
 
 def clean():
     files.removeFilesRecursive(Config.meka, (lambda f: f.endswith('.pyc')))
-    files.removeFilesRecursive(Config.skmultilearn, (lambda f: f.endswith('.pyc')))
+    files.removeFilesRecursive(Config.yyskmultilearn, (lambda f: f.endswith('.pyc')))
     files.removeFilesRecursive(Config.tests, (lambda f: f.endswith('.pyc')))
     files.removeFilesRecursive(Config.utils, (lambda f: f.endswith('.pyc')))
 
 def package():
-    sourceDirs = [Config.meka, Config.skmultilearn, Config.tests, Config.utils]
+    sourceDirs = [Config.meka, Config.yyskmultilearn, Config.tests, Config.utils]
     for sourceDir in sourceDirs:
         for root, dirs, files in os.walk(sourceDir):
             for dir in dirs:
@@ -36,7 +36,7 @@ def package():
 def lint(full=False):
     from pylint import epylint
 
-    sources = [Config.root, Config.meka, Config.skmultilearn]
+    sources = [Config.root, Config.meka, Config.yyskmultilearn]
     if full:
         fullReport = 'y'
     else:

@@ -1,6 +1,6 @@
-skmultilearn\.cluster\.fixed module
+yyskmultilearn\.cluster\.fixed module
 ====================================
 
-.. autoclass:: skmultilearn.cluster.FixedLabelSpaceClusterer
+.. autoclass:: yyskmultilearn.cluster.FixedLabelSpaceClusterer
     :members:
     :show-inheritance:

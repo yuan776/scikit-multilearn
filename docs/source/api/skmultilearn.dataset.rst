@@ -1,6 +1,6 @@
-skmultilearn\.dataset module
+yyskmultilearn\.dataset module
 ============================
 
-.. automodule:: skmultilearn.dataset
+.. automodule:: yyskmultilearn.dataset
     :members:
     :show-inheritance:

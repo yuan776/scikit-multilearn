@@ -1,6 +1,6 @@
 Network-based label space partition ensemble classification
 ===========================================================
 
-.. autoclass:: skmultilearn.ensemble.LabelSpacePartitioningClassifier
+.. autoclass:: yyskmultilearn.ensemble.LabelSpacePartitioningClassifier
     :members:
     :show-inheritance:

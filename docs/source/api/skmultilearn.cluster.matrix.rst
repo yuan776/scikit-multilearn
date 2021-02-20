@@ -1,6 +1,6 @@
-skmultilearn\.cluster\.matrix module
+yyskmultilearn\.cluster\.matrix module
 ====================================
 
-.. autoclass:: skmultilearn.cluster.MatrixLabelSpaceClusterer
+.. autoclass:: yyskmultilearn.cluster.MatrixLabelSpaceClusterer
     :members:
     :show-inheritance:

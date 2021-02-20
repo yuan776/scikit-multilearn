@@ -208,7 +208,7 @@
           <h3 class="light header">Learn more</h3>
           <p class="col s12 m8 offset-m2 caption">Scikit-multilearn offers extensive user documentation. Read the user docs, learn from recipes constructed on real data or browse the API reference to find a concrete class or function.</p>
           <a href="userguide.html" class="s12 l4 btn-large waves-effect waves-light">User docs</a>
-          <a href="api/skmultilearn.html" class="s12 l4 btn-large waves-effect waves-light">Reference</a>
+          <a href="api/yyskmultilearn.html" class="s12 l4 btn-large waves-effect waves-light">Reference</a>
         </div>
         <div class="col s12 m6">
           <h3 class="light header">Join the team!</h3>

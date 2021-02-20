@@ -1,6 +1,6 @@
-skmultilearn\.base\.base module
+yyskmultilearn\.base\.base module
 ===============================
 
-.. automodule:: skmultilearn.base.base
+.. automodule:: yyskmultilearn.base.base
     :members:
     :show-inheritance:

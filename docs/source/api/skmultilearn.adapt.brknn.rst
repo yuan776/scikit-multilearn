@@ -1,10 +1,10 @@
 Binary Relevance kNN
 ====================
 
-.. autoclass:: skmultilearn.adapt.BRkNNaClassifier
+.. autoclass:: yyskmultilearn.adapt.BRkNNaClassifier
     :members:
     :inherited-members:
 
-.. autoclass:: skmultilearn.adapt.BRkNNbClassifier
+.. autoclass:: yyskmultilearn.adapt.BRkNNbClassifier
     :members:
     :inherited-members:

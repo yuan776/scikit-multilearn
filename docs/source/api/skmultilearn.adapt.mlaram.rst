@@ -1,6 +1,6 @@
 Multi-label ARAM
 ================
 
-.. autoclass:: skmultilearn.adapt.MLARAM
+.. autoclass:: yyskmultilearn.adapt.MLARAM
     :members:
     :inherited-members:

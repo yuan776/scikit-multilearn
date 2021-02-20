@@ -1,6 +1,6 @@
 Classifier Chains
 =================
 
-.. autoclass:: skmultilearn.problem_transform.ClassifierChain
+.. autoclass:: yyskmultilearn.problem_transform.ClassifierChain
     :members:
     :show-inheritance:

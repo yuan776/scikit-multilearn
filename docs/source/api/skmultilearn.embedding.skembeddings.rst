@@ -1,6 +1,6 @@
 scikit-learn based embeddings
 =============================
 
-.. autoclass:: skmultilearn.embedding.SKLearnEmbedder
+.. autoclass:: yyskmultilearn.embedding.SKLearnEmbedder
     :members:
     :show-inheritance:

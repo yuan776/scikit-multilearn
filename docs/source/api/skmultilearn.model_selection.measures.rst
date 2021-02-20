@@ -1,6 +1,6 @@
-skmultilearn\.model\_selection\.measures module
+yyskmultilearn\.model\_selection\.measures module
 ===============================================
 
-.. automodule:: skmultilearn.model_selection.measures
+.. automodule:: yyskmultilearn.model_selection.measures
     :members:
     :show-inheritance:

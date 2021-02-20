@@ -1,6 +1,6 @@
 Multilabel k Nearest Neighbours
 =================================
 
-.. autoclass:: skmultilearn.adapt.MLkNN
+.. autoclass:: yyskmultilearn.adapt.MLkNN
     :members:
     :inherited-members:

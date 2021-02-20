@@ -108,7 +108,7 @@ install:
 
 test_script:
   # Run the project tests
-  - "%PYTHON%\\python.exe -m pytest -p no:warnings skmultilearn"
+  - "%PYTHON%\\python.exe -m pytest -p no:warnings yyskmultilearn"
 
 after_test:
   # If tests are successful, create binary packages for the project.

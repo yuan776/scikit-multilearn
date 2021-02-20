@@ -1,7 +1,7 @@
-skmultilearn\.ensemble\.voting module
+yyskmultilearn\.ensemble\.voting module
 =====================================
 
-.. autoclass:: skmultilearn.ensemble.MajorityVotingClassifier
+.. autoclass:: yyskmultilearn.ensemble.MajorityVotingClassifier
     :exclude-members: predict_proba
     :members:
     :show-inheritance:

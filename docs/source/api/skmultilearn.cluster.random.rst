@@ -1,6 +1,6 @@
-skmultilearn\.cluster\.random module
+yyskmultilearn\.cluster\.random module
 ====================================
 
-.. autoclass:: skmultilearn.cluster.RandomLabelSpaceClusterer
+.. autoclass:: yyskmultilearn.cluster.RandomLabelSpaceClusterer
     :members:
     :show-inheritance:

@@ -11,7 +11,7 @@ learning tasks. It is built on-top of various scientific Python packages
 follows a similar API to that of [scikit-learn](http://scikit-learn.org/).
 
 - __Website:__ [scikit.ml](http://scikit.ml)
-- __Documentation:__ [scikit-multilearn Documentation](http://scikit.ml/api/skmultilearn.html)
+- __Documentation:__ [scikit-multilearn Documentation](http://scikit.ml/api/yyskmultilearn.html)
 
 
 ## Features
@@ -79,8 +79,8 @@ problem, to a Support-vector machine (SVM) classifier, we simply perform
 the following tasks:
 
 ```python
-# Import BinaryRelevance from skmultilearn
-from skmultilearn.problem_transform import BinaryRelevance
+# Import BinaryRelevance from yyskmultilearn
+from yyskmultilearn.problem_transform import BinaryRelevance
 
 # Import SVC classifier from sklearn
 from sklearn.svm import SVC
