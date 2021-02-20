@@ -23,6 +23,7 @@ setup(
     author_email=u'yuan76@live.com',
     license=u'BSD',
     long_description=readme,
+    long_description_content_type="text/markdown",
     url=u'http://scikit.ml/',
     description=u'YY-Scikit-multilearn is a BSD-licensed library for multi-label classification that is built on top of the well-known scikit-learn ecosystem.',
     classifiers=[
