@@ -2,7 +2,9 @@
 from setuptools import setup, find_packages
 # import sphinx_pypi_upload
 import sys
+import pathlib
 
+here = pathlib.Path(__file__).parent.resolve()
 if sys.version_info[0] < 3:
     import codecs
 
@@ -10,21 +12,19 @@ if sys.version_info[0] < 3:
         readme = f.read()
 
 else:
-    import io
+    readme = (here / 'README.md').read_text(encoding='utf-8')
 
-    with io.open('README.md', 'r', 'utf-8') as f:
-        readme = f.read()
 
 setup(
-    name='scikit-multilearn',
-    version='0.2.0',
+    name='yy-scikit-multilearn',
+    version='0.2.1',
     packages=find_packages(exclude=['docs', 'tests', '*.tests']),
-    author=u'Piotr Szymański',
-    author_email=u'niedakh@gmail.com',
+    author=u'Yuan Yuan',
+    author_email=u'yuan76@live.com',
     license=u'BSD',
     long_description=readme,
     url=u'http://scikit.ml/',
-    description=u'Scikit-multilearn is a BSD-licensed library for multi-label classification that is built on top of the well-known scikit-learn ecosystem.',
+    description=u'YY-Scikit-multilearn is a BSD-licensed library for multi-label classification that is built on top of the well-known scikit-learn ecosystem.',
     classifiers=[
         u'Development Status :: 5 - Production/Stable',
         u'Environment :: Console',
